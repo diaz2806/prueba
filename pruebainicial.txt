@@ -1,1 +1,3 @@
 inicio
+
+Ahora esto es una variante que me permitira crear una rama y trabajar sobre ella.
